@@ -1,1 +1,1 @@
-# Netflying
+# The design of this application is aimed at ordering concert tickets. Which later there is a login menu, ticket selection, payment and download tickets. This application is only for the scope of one city, for example, the city of Purwokerto and requires logging in first. In ticket selection, there is a description of the name of the concert, date, section seat such as regular or VIP along with the ticket price according to the selected seat. As well as the payment there is a payment method and a deadline for paying for the ticket.
